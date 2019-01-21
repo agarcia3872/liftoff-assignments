@@ -10,11 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* ./todo1.png
-* ./todo2.png
-* ./todo3.png
-* ./todo4.png
-* ./todo.png
+* [todo1.png ./todo1.png]
+* [todo2.png ./todo2.png]
+* [todo3.png ./todo3.png]
+* [todo4.png ./todo4.png]
+* [todo.png ./todo.png]
 
 ### Project Tracker
 
