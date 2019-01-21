@@ -11,10 +11,10 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 * ![Login](./todo1.png)
-* ![Main] (./todo2.png)
-* ![Add task] (./todo3.png)
-* ![Edit task] (./todo4.png)
-* ![Todo App] (./todo.png)
+* ![Main](./todo2.png)
+* ![Add task](./todo3.png)
+* ![Edit task](./todo4.png)
+* ![Todo App](./todo.png)
 
 ### Project Tracker![GitHub Logo](/images/logo.png)
 
