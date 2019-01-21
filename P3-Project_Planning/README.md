@@ -10,13 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* [todo1.png] (./todo1.png)
-* [todo2.png] (./todo2.png)
-* [todo3.png] (./todo3.png)
-* [todo4.png] (./todo4.png)
-* [todo.png] (./todo.png)
+* ![Login](./todo1.png)
+* ![Main] (./todo2.png)
+* ![Add task] (./todo3.png)
+* ![Edit task] (./todo4.png)
+* ![Todo App] (./todo.png)
 
-### Project Tracker
+### Project Tracker![GitHub Logo](/images/logo.png)
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
