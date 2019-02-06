@@ -16,4 +16,4 @@ https://www.pivotaltracker.com/n/projects/2237644
 
 ### Project Repo Link
 
-https://github.com/agarcia3872/todo-app
+https://github.com/agarcia3872/todoMVC-Authentication-app
