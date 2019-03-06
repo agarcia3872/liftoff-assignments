@@ -7,5 +7,4 @@ We want you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
-* ![My Tasks Project Presentation](./My Tasks Project Presentation(030319).pdf)
+[My Tasks Project Presentation](./My_Tasks_Project_Presentation(030319).pdf)
